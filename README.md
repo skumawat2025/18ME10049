@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**18ME10049/18ME10049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Sandeep Kumawat a 3rd Year Undergraduate Student of IIT kharagpur. I am New to open Source.
 
-Here are some ideas to get you started:
+## Technical Skills
+C/C++,Python
+Java,JavaScript
+HTML,CSS
+Web Devlopment, Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My intrest 
+
+Machine learning | Competitive Programming | Open Source Contribution
+
