@@ -9,7 +9,7 @@ HTML,CSS
 Machine Learning,SQL
 
 
-## My intrest 
+## My interest
 
 Machine learning | Competitive Programming | Open Source Contribution
 
