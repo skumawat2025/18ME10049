@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am Sandeep Kumawat a 3rd Year Undergraduate Student of IIT kharagpur. I 🖤 contributing to open Source.
+### I am Sandeep Kumawat Undergraduate Student of IIT kharagpur. I 🖤 contributing to open Source.
 
 ## Technical Skills
 C/C++,Python
