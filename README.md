@@ -3,13 +3,10 @@
 ### I am Sandeep Kumawat Undergraduate Student of IIT kharagpur.
 
 ## Technical Skills
-C/C++,Python
-Java,JavaScript
-HTML,CSS
-Machine Learning,SQL
-
+Languages: C/C++, Python, Java, HTML/CSS, SQL
+Frameworks: Python Dash, Django, Node.js, ReactJS, Junit, Mockito, Google Guice
 
 ## My interest
 
-Machine learning | Competitive Programming | Open Source Contribution
+Software Development | Machine learning | Competitive Programming | Open Source Contribution
 
