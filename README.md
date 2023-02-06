@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am Sandeep Kumawat Undergraduate Student of IIT kharagpur.
+### Sandeep Kumawat | Final Year Student IIT Kharagpur
 
 ## Technical Skills
 Languages: C/C++, Python, Java, HTML/CSS, SQL
